@@ -48,7 +48,7 @@ Project:    Student Record System - Rexis
         <p><input id="loginbtn" value="Login" type="submit" class="login_btn"></p>
     </div>
     
-    <div class="index-footer" align="center">&copy;2013 Edgar Zulu</div><!-- end div index-footer -->
+    <div class="index-footer" align="center">&copy;2014 Edgar Zulu</div><!-- end div index-footer -->
     
   </div><!-- end div page -->
   </body>
